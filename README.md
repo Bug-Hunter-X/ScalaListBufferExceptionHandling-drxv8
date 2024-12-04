@@ -1,0 +1,1 @@
+This repository contains a simple Scala program that demonstrates an `IndexOutOfBoundsException`.  The program uses a `ListBuffer`, adds three elements, and then attempts to access an element outside the bounds of the list. This example highlights a common off-by-one error when working with collections.
